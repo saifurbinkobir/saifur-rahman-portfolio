@@ -1,0 +1,22 @@
+{
+  "status": "awaiting-user-details",
+  "remaining": [
+    "Exact Instagram URL for the CV and optional portfolio social link",
+    "One actual development challenge and one intended improvement for each project",
+    "Hobbies or interests outside programming and preferred type of work for About Me",
+    "Whether We Dominators is current, or its end month and year"
+  ],
+  "confirmed": {
+    "name": "Saifur Rahman",
+    "title": "Web Designer & Developer",
+    "portfolioStack": ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React", "Next.js"],
+    "theme": "Light and dark, using supplied logo colors",
+    "excludeOriginalCvWebsite": true,
+    "educationYears": "CV examination years; do not mislabel as actual study/completion dates"
+  },
+  "reviewedSourceCommits": {
+    "bangla-news-24": "fb83b2469aa1ec7db14b1b4eac667f6425548718",
+    "bazar-dor": "1d2083a3b87bf365ce8e75fd434cbdf014bb5faa",
+    "devstack": "fb5975b95a1760e86170e32414ca1c035d117a3c"
+  }
+}
